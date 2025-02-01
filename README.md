@@ -20,5 +20,5 @@ The labels (`gt`) represent the activity type.
 | 0.1 | -0.3 | 8.8 | stairsup |
 | ... | ... | ... | ... |
 
-📥 **Download Dataset**: [Heterogeneous_accelerometer_HAR.csv](PUT_YOUR_CSV_LINK_HERE)  
+📥 **Download Dataset**: [Heterogeneous_accelerometer_HAR.csv](https://drive.google.com/file/d/1J4i19E8Pu2RUEfSB_vNTPnMUIlopSNqv/view?usp=sharing)
 
